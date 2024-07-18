@@ -5,7 +5,7 @@
 
 ### In this world of ever-increasing global temperatures and what seems like a natural disaster somewhere in the world every other day, I wanted to conduct a deeper dive into these and see if they are in anyay correlated - do rising temperatures equate to more natural disaster???? 
 ## Let's find out!
-This analysis explores the relationship between climate change, as indicated by global temperature rise, and natural disasters. I will be using Python, specifically Pandas for my analysis which can be found in [Climate Change Notebook](http://localhost:8888/notebooks/datasets%2Ftemperature_disaster.ipynb)
+This analysis explores the relationship between climate change, as indicated by global temperature rise, and natural disasters. I will be using Python, specifically Pandas for my analysis which can be found in the file - **temperature_disaster.ipynb**
 
 **Data sources include:**
 
